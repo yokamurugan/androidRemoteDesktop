@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+  
+      <item android:id="@+id/KeyBoard"
+        android:title="KeyBoard"
+     />
+       <item android:id="@+id/DoubleClick"
+        android:title="DoubleClick"
+     />
+        <item android:id="@+id/RightClick"
+        android:title="RightClick"
+     />
+         <item android:id="@+id/Shortcuts"
+        android:title="Shortcuts">
+             <menu>
+                   <item android:id="@+id/Shutdown"
+       					 android:title="Shutdown"
+     					/>
+                   <item android:id="@+id/Restart"
+       					 android:title="Restart"
+     					/>
+                  
+                    <item android:id="@+id/LogOff"
+       					 android:title="LogOff"
+     					/>
+                 </menu>>
+             
+         </item>
+        
+            
+     
+     </menu>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">AndroidRDP</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_rdpmouse">RDP Mouse</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="title_activity_rdpkey_board">RDP KeyBoard</string>
+    <string name="title_activity_rdplive_screen">RDP LiveScreen</string>
+    <string name="title_activity_shortcuts">Shortcuts</string>
+    <string name="title_activity_main">MainActivity</string>
+
+</resources>
